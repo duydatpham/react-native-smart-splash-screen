@@ -1,6 +1,6 @@
 {
-  "name": "react-native-smart-splash-screen",
-  "version": "2.3.5",
+  "name": "react-native-nsmart-splash-screen",
+  "version": "2.3.7",
   "description": "A smart splash screen for React Native apps",
   "main": "SplashScreen.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-component/react-native-smart-splash-screen.git"
+    "url": "git+https://github.com/duydatpham/react-native-smart-splash-screen.git"
   },
   "keywords": [
     "react-native",
@@ -18,12 +18,12 @@
     "splashscreen",
     "component"
   ],
-  "author": "HISAME SHIZUMARU",
+  "author": "Duy Dat Pham",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-native-component/react-native-smart-splash-screen/issues"
+    "url": "https://github.com/duydatpham/react-native-smart-splash-screen/issues"
   },
-  "homepage": "https://github.com/react-native-component/react-native-smart-splash-screen#readme",
+  "homepage": "https://github.com/duydatpham/react-native-smart-splash-screen#readme",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   }
